@@ -1,11 +1,10 @@
 # AppuntiUniversita
 
-# 🚀 Benvenuto
+## 🚀 Benvenuto
 
-In questa repository troverai gli appunti e il materiale raccolto (e 
-spesso sudato!) durante il percorso della Laurea Triennale in Informatica presso l'Università degli Studi di Perugia.
+In questa repository troverai gli appunti e il materiale raccolto (e spesso sudato!) durante il percorso della Laurea Triennale in Informatica presso l'Università degli Studi di Perugia.
 
-## 📚 Appunti!
+## 📚 Appunti
 
 Gran parte del materiale è stato scritto da noi oppure recuperato da varie fonti utili nel tempo. Ci ha aiutato a superare gli esami con meno difficoltà — non garantiamo miracoli, ma di sicuro è meglio che partire da zero o navigare nel buio totale! 🚀
 
