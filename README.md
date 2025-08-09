@@ -1,7 +1,7 @@
 # AppuntiUniversita
 
 <p align="center">
-  <img src="./download.png" alt="logo" width="150"/>
+  <img src="./download.png" alt="logo" width="550"/>
 </p>
 
 ## 🚀 Benvenuto
