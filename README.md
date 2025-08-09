@@ -1,5 +1,9 @@
 # AppuntiUniversita
 
+<p align="center">
+  <img src="./download.png" alt="logo" width="150"/>
+</p>
+
 ## 🚀 Benvenuto
 
 In questa repository troverai gli appunti e il materiale raccolto (e spesso sudato!) durante il percorso della Laurea Triennale in Informatica presso l'Università degli Studi di Perugia.
