@@ -1,26 +1,29 @@
 # 🖥️ Architettura degli Elaboratori
-### la sofferenza
 
-<table>
-  <tr>
-    <td width="250">
-      <img src="./navarra.jpeg" alt="Docente Navarra" width="220" style="border-radius: 15px;"/>
-    </td>
-    <td>
-      <img src="./download.gif" alt="Gif Architettura" width="200"/>
-    </td>
-  </tr>
-</table>
+_Appunti, esercizi e materiale di supporto per il corso_  
+
+<p align="center">
+  <img src="./download.gif" alt="Gif Architettura" width="320"/>
+</p>
+
+---
+
+## 👨‍🏫 Docente
+<p align="center">
+  <img src="./navarra.jpeg" alt="Prof. Navarra" width="220" style="border-radius: 10px;"/>
+</p>
+
+---
 
 ## 📚 Informazioni sul corso
 Il corso di **Architettura degli Elaboratori** fa parte della **Laurea Triennale in Informatica** presso l’Università degli Studi di Perugia.  
-In questa repository troverai **appunti, esercizi e materiale di supporto** utili per lo studio e la preparazione agli esami.  
+In questa repository troverai **appunti, esercizi e materiale utile** per la preparazione agli esami.  
 
 🔗 [Scheda ufficiale del corso (UniPG)](https://www.unipg.it/didattica/corsi-di-laurea-e-laurea-magistrale/archivio/offerta-formativa-2023-24?idins=270792)
 
 ---
 
-## 📝 Contenuti principali
+## 📂 Contenuti principali
 - Introduzione all’architettura dei calcolatori  
 - Rappresentazione dell’informazione  
 - Aritmetica degli elaboratori  
@@ -37,5 +40,3 @@ In questa repository troverai **appunti, esercizi e materiale di supporto** util
 
 ---
 
-## ✨ Obiettivo
-Questa raccolta nasce per fornire un supporto pratico e organizzato allo studio, integrando materiale personale e riferimenti ufficiali.
