@@ -1,8 +1,16 @@
 # 🖥️ Architettura degli Elaboratori
+### la sofferenza
 
-<p align="left">
-  <img src="./navarra.jpeg" alt="Docente Navarra" width="300"/>
-</p>
+<table>
+  <tr>
+    <td width="250">
+      <img src="./navarra.jpeg" alt="Docente Navarra" width="220" style="border-radius: 15px;"/>
+    </td>
+    <td>
+      <img src="./download.gif" alt="Gif Architettura" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Informazioni sul corso
 Il corso di **Architettura degli Elaboratori** fa parte della **Laurea Triennale in Informatica** presso l’Università degli Studi di Perugia.  
@@ -25,7 +33,7 @@ In questa repository troverai **appunti, esercizi e materiale di supporto** util
 
 ## 📂 Struttura della repository
 - `appunti/` → appunti delle lezioni  
-- `esercizi/` → esercizi e tracce svolte  
+- `esercizi_esami/` → esercizi e tracce svolte  
 
 ---
 
