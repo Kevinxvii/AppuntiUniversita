@@ -3,7 +3,7 @@
 _Appunti, esercizi e materiale di supporto per il corso_  
 
 <p align="center">
-  <img src="./download.gif" alt="Gif Architettura" width="320"/>
+  <img src="./hurt-leonardo-dicaprio.gif" alt="Gif Architettura" width="320"/>
 </p>
 
 ---
