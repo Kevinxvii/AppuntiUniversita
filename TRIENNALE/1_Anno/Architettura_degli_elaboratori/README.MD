@@ -8,16 +8,11 @@ _Appunti, esercizi e materiale di supporto per il corso_
 
 ---
 
-## 👨‍🏫 Docente
-<p align="center">
-  <img src="./navarra.jpeg" alt="Prof. Navarra" width="220" style="border-radius: 10px;"/>
-</p>
-
----
 
 ## 📚 Informazioni sul corso
 Il corso di **Architettura degli Elaboratori** fa parte della **Laurea Triennale in Informatica** presso l’Università degli Studi di Perugia.  
-In questa repository troverai **appunti, esercizi e materiale utile** per la preparazione agli esami.  
+In questa repository troverai **appunti, esercizi e materiale utile** per la preparazione agli esami.
+Docente : Alfredo Navarra
 
 🔗 [Scheda ufficiale del corso (UniPG)](https://www.unipg.it/didattica/corsi-di-laurea-e-laurea-magistrale/archivio/offerta-formativa-2023-24?idins=270792)
 
